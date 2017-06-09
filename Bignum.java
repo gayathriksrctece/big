@@ -24,7 +24,10 @@ else
  {
      System.out.println(b);
  }
+    else
+    {
  System.out.println(c);
+}
 }
 }    
 }
